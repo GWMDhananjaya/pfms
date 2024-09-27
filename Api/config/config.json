@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
+    "username": "admin",
+    "password": "Password",
     "database": "pfmsdb",
-    "host": "127.0.0.1",
+    "host": "pfms-db.c9ua2u62q6nc.eu-north-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
